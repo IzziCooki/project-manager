@@ -1,4 +1,4 @@
-```markdown
+
 # Client & Project Compass
 
 This React-based web application helps you navigate your professional landscape by keeping a clear overview of
