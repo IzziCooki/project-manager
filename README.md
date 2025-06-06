@@ -1,7 +1,8 @@
 ```markdown
 # Client & Project Compass
 
-This React-based web application helps you navigate your professional landscape by keeping a clear overview of potential clients and upcoming projects, all running securely on your local machine.
+This React-based web application helps you navigate your professional landscape by keeping a clear overview of
+potential clients and upcoming projects, all running securely on your local machine.
 
 ---
 
