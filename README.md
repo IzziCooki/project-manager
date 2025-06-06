@@ -15,7 +15,7 @@ potential clients and upcoming projects, all running securely on your local mach
 - **Privacy-First Data Storage**: All your valuable data resides locally on your computer, ensuring complete control and privacy.
 
 - **Intuitive User Interface**: A clean and straightforward design makes managing your professional pipeline a breeze.
-```# Firebase Configuration
+# Firebase Configuration
 
 ## Setup Instructions
 
@@ -34,7 +34,7 @@ To configure Firebase for this project, you need to update the API keys and valu
 
 Replace the empty strings in your `firebase.js` file with your actual Firebase configuration values:
 
-```javascript
+javascript
 const firebaseConfig = {
   apiKey: "your-api-key-here",
   authDomain: "your-project-id.firebaseapp.com",
